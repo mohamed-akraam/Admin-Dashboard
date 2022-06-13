@@ -293,8 +293,3 @@ a:active {
     font-size: 1rem;
     font-weight: 700;
 }
-
-.right-sidebar {
-    display: grid;
-    grid-template-rows: 1fr;
-}
